@@ -1,4 +1,4 @@
-# Nice to meet you! :) 
+# Nice to meet you :) 
 
 My name is Sonali and I am a **Product Manager, Data Scientist, and Strategist** who loves intersecting **AI with Data**.
 
