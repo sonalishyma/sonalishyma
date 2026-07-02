@@ -6,8 +6,6 @@ I build at the intersection of data, strategy, AI, and product design. My work s
 
 ---
 
-## More About Me
-
 I grew up in the Bay Area, which was the perfect place to ask questions like: why does this work this way, who is it for, and how could it be better? That curiosity pushed me toward math, computer science, business, and then continued into Data Science at UCSD.
 
 My background is intentionally cross-functional so I can have an understanding of every step of a process such as:
