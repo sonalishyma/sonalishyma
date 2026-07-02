@@ -1,14 +1,14 @@
 # Nice to meet you :) 
 
-My name is Sonali and I am a **Product Manager, Data Scientist, and Strategist** who loves intersecting **AI with Data**.
+My name is Sonali and I am a Product Manager, Data Scientist, and Strategist who loves intersecting AI with Data.
 
-I build at the intersection of **data, strategy, AI, and product design**. My work spans applied AI, market research, analytics, financial modeling, consulting deliverables, and product strategy. I like turning messy information into clear decisions: a model, a dashboard, a strategy brief, a PRD, or a product prototype.
+I build at the intersection of data, strategy, AI, and product design. My work spans applied AI, market research, analytics, financial modeling, consulting deliverables, and product strategy. 
 
 ---
 
 ## More About Me
 
-I grew up in the **Bay Area**, which was the perfect place to ask questions like: why does this work this way, who is it for, and how could it be better? That curiosity pushed me toward math, computer science, business, and data. During high school, I earned associate degrees in **Applied Mathematics** and **Computer Science** from community college, then continued into Data Science at UCSD.
+I grew up in the Bay Area, which was the perfect place to ask questions like: why does this work this way, who is it for, and how could it be better? That curiosity pushed me toward math, computer science, business, and then continued into Data Science at UCSD.
 
 My background is intentionally cross-functional so I can have an understanding of every step of a process such as:
 
@@ -18,7 +18,7 @@ My background is intentionally cross-functional so I can have an understanding o
 - **Finance and Business:** financial modeling, budget variance analysis, revenue and cash flow analysis, GAAP fundamentals, bookkeeping, and QuickBooks.
 - **Consulting and Research:** market sizing, competitive intelligence, client deliverables, healthcare tech research, and executive-ready narratives.
 
-Right now, my interests are in opportunities centered on **product management for AI and data products**, including tools that help people make better decisions, move faster, and automate processes to create more productive systems.
+Right now, my interests are in opportunities centered on product management for AI and data products, including tools that help people make better decisions, move faster, and automate processes to create more productive systems.
 
 ---
 
