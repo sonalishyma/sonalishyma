@@ -1,6 +1,6 @@
 # Nice to meet you :) 
 
-My name is Sonali and I am a Product Manager, Data Scientist, and Strategist who loves intersecting AI with Data.
+My name is Sonali and I am a Data Scientist and Strategist who loves intersecting AI with Data.
 
 I build at the intersection of data, strategy, AI, and product design. My work spans applied AI, market research, analytics, financial modeling, consulting deliverables, and product strategy. 
 
