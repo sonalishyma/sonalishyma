@@ -98,15 +98,3 @@ Right now, my interests are in opportunities centered on product management for 
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## Let's Connect
-
-I'm always excited to discuss **AI, data science, product strategy, analytics, and building products that create real-world impact.**
-
-Feel free to connect or reach out!
-
-- 🌐 Portfolio: **Coming Soon**
-
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-
-- 📫 Email: *(Add your professional email)*
