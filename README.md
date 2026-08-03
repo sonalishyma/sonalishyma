@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-top-banner.png?v=2" width="100%" alt="Sonali Singh — transforming data into direction" />
+  <img src="./assets/profile-top-banner.png?v=3" width="100%" alt="Sonali Singh — transforming data into direction" />
 </p>
 
 <p align="center">
@@ -12,6 +12,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=19&duration=2800&pause=850&color=2867F7&center=true&vCenter=true&width=720&lines=Building+AI+products+from+messy+questions;Turning+research+into+decisions+people+can+use;Connecting+data%2C+strategy%2C+and+product+design" alt="Animated introduction" />
 </p>
 
+<img src="./assets/blue-gradient-divider.svg" width="100%" alt="" />
+
 ## What I build
 
 I am a data scientist and product strategist studying Data Science and Business Economics at UC San Diego. I work across **applied AI, analytics, markets, finance, and product design** where I take ambiguous questions from evidence to a useful, documented experience.
@@ -19,6 +21,8 @@ I am a data scientist and product strategist studying Data Science and Business 
 | Product & strategy | Data & AI | Finance & markets |
 |---|---|---|
 | Problem framing, user research, MVP scoping, PRDs, and competitive analysis | Statistical analysis, predictive modeling, LLM workflows, RAG, and data visualization | Filings, operating metrics, market structure, financial modeling, and strategic research |
+
+<img src="./assets/blue-gradient-divider.svg" width="100%" alt="" />
 
 ## Core toolkit
 
@@ -84,6 +88,8 @@ I am a data scientist and product strategist studying Data Science and Business 
 ![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 
+<img src="./assets/blue-gradient-divider.svg" width="100%" alt="" />
+
 ## More about how I work
 
 I grew up in the Bay Area asking why systems work the way they do, who they serve, and how they could be better. That curiosity led me through math, computer science, business, and data science.
@@ -94,7 +100,3 @@ I grew up in the Bay Area asking why systems work the way they do, who they serv
 - **Business:** operating metrics, revenue and cash-flow analysis, budget variance, and business-model comparison.
 
 <p align="center"><strong>Open to product, data, and strategy roles.</strong><br/>San Francisco · San Diego</p>
-
-<p align="center">
-  <img src="./assets/profile-bottom-banner.png?v=2" width="100%" alt="Soft blue gradient footer banner" />
-</p>
