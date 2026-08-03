@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Sonali Singh — transforming data into direction" />
+  <img src="./assets/profile-top-banner.png" width="100%" alt="Sonali Singh — transforming data into direction" />
 </p>
 
 <p align="center">
@@ -94,3 +94,7 @@ I grew up in the Bay Area asking why systems work the way they do, who they serv
 - **Business:** operating metrics, revenue and cash-flow analysis, budget variance, and business-model comparison.
 
 <p align="center"><strong>Open to product, data, and strategy roles.</strong><br/>San Francisco · San Diego</p>
+
+<p align="center">
+  <img src="./assets/profile-bottom-banner.png" width="100%" alt="Soft blue gradient footer banner" />
+</p>
