@@ -16,7 +16,7 @@
 
 ## What I build
 
-I am a data scientist and product strategist studying Data Science and Business Economics at UC San Diego. I work across **applied AI, analytics, markets, finance, and product design** where I take ambiguous questions from evidence to a useful, documented experience.
+I'm Sonali, a data analyst and Data Science major at UC San Diego who turns data into business decisions, using AI and automation for the heavy lifting so the focus stays on insight. I work across analytics, applied AI, and strategic finance.
 
 | Product & strategy | Data & AI | Finance & markets |
 |---|---|---|
