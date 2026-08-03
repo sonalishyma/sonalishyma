@@ -1,91 +1,63 @@
-# Nice to meet you :) 
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Sonali Singh — data, AI, strategy, and product" />
+</p>
 
-My name is Sonali and I am a Data Scientist and Strategist who loves intersecting AI with Data.
+<p align="center">
+  <a href="https://sonalixsingh.com"><img src="https://img.shields.io/badge/Portfolio-sonalixsingh.com-2867F7?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sonaliss"><img src="https://img.shields.io/badge/LinkedIn-Connect-122247?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact@sonalixsingh.com"><img src="https://img.shields.io/badge/Email-Let's_talk-64749A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-I build at the intersection of data, strategy, AI, and product design. My work spans applied AI, market research, analytics, financial modeling, consulting deliverables, and product strategy. 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=19&duration=2800&pause=850&color=2867F7&center=true&vCenter=true&width=720&lines=Building+AI+products+from+messy+questions;Turning+research+into+decisions+people+can+use;Connecting+data%2C+strategy%2C+and+product+design" alt="Animated introduction" />
+</p>
 
----
+## What I build
 
-I grew up in the Bay Area, which was the perfect place to ask questions like: why does this work this way, who is it for, and how could it be better? That curiosity pushed me toward math, computer science, business, and then continued into Data Science at UCSD.
+I am a data scientist and product strategist studying Data Science and Business Economics at UC San Diego. I work across **applied AI, analytics, markets, finance, and product design**—taking ambiguous questions from evidence to a useful, documented experience.
 
-My background is intentionally cross-functional so I can have an understanding of every step of a process such as:
+| Product & strategy | Data & AI | Finance & markets |
+|---|---|---|
+| Problem framing, user research, MVP scoping, PRDs, and competitive analysis | Statistical analysis, predictive modeling, LLM workflows, RAG, and data visualization | Filings, operating metrics, market structure, financial modeling, and strategic research |
 
-- **Data Science:** modeling, experimentation, statistical thinking, feature engineering, data visualization, and end-to-end analysis.
-- **Product:** product strategy, PRDs, user research, MVP scoping, competitive analysis, and translating insights into decisions.
-- **AI:** LLM workflows, RAG-style research systems, prompt evaluation, AI-assisted synthesis, and applied AI product thinking.
-- **Finance and Business:** financial modeling, budget variance analysis, revenue and cash flow analysis, GAAP fundamentals, bookkeeping, and QuickBooks.
-- **Consulting and Research:** market sizing, competitive intelligence, client deliverables, healthcare tech research, and executive-ready narratives.
+## Selected work
 
-Right now, my interests are in opportunities centered on product management for AI and data products, including tools that help people make better decisions, move faster, and automate processes to create more productive systems.
+| Project | What it does | Explore |
+|---|---|---|
+| **Project Insight** | Turns a company name into a structured, source-grounded strategic brief using live research, financial data, and AI analysis. | [Product](https://portfolio-site-delta-six-42.vercel.app/project-insight.html) · [Code](https://github.com/sonalishyma/Project-Insight) |
+| **The Greening Divide** | Uses 25 years of satellite data across 166 countries to test whether national wealth predicts environmental greening. | [Story](https://sonalishyma.github.io/The-Greening-Divide/) · [Code](https://github.com/sonalishyma/The-Greening-Divide) |
+| **Outage Lens** | Explores major U.S. power outages and predicts restoration time using information available when an outage begins. | [Project](https://sonalixsingh.com/projects.html) · [Code](https://github.com/sonalishyma/Outage-Lens) |
+| **UC Sustainability Rivalry** | Ranks nine UC campuses across seven public sustainability measures in an interactive editorial experience. | [Project](https://sonalixsingh.com/projects.html) · [Code](https://github.com/sonalishyma/UC-Sustainability-Rivalry) |
 
----
+## Core toolkit
 
-# Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,js,html,css,fastapi,postgres,git,github,vscode,figma,vercel&perline=12" alt="Core technology stack" />
+</p>
 
-## Languages
+`pandas` · `NumPy` · `scikit-learn` · `statsmodels` · `Plotly` · `SQL` · `LLM workflows` · `RAG` · `REST APIs` · `Tableau` · `Power BI` · `Excel`
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+<details>
+<summary><strong>More about how I work</strong></summary>
 
-## Databases & Operating Systems 
+I grew up in the Bay Area asking why systems work the way they do, who they serve, and how they could be better. That curiosity led me through math, computer science, business, and data science.
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- **Research:** market sizing, competitive intelligence, public filings, and executive-ready synthesis.
+- **Analysis:** modeling, experimentation, statistical thinking, feature engineering, and reproducible workflows.
+- **Product:** user needs, information architecture, MVP definition, and translating evidence into decisions.
+- **Business:** operating metrics, revenue and cash-flow analysis, budget variance, and business-model comparison.
 
-## Data Science & Machine Learning
+</details>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-003B57?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+## GitHub activity
 
-## AI & Backend
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sonalishyma&show_icons=true&hide_border=true&title_color=2867F7&icon_color=2867F7&text_color=64749A&bg_color=00000000" alt="Sonali's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalishyma&layout=compact&hide_border=true&title_color=2867F7&text_color=64749A&bg_color=00000000" alt="Most used languages" />
+</p>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge&logo=openai&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-6E40C9?style=for-the-badge&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Workflows-1F6FEB?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonalishyma&bg_color=ffffff00&color=64749A&line=2867F7&point=122247&area=true&hide_border=true" alt="Contribution activity graph" />
+</p>
 
-## Visualization & Business
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=intuitquickbooks&logoColor=white)
-
-## Cloud & Deployment & Development Tools 
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-## Product & Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+<p align="center"><strong>Open to product, data, and strategy roles.</strong><br/>San Francisco · San Diego</p>
